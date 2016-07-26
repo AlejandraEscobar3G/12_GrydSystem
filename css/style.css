@@ -1,0 +1,14 @@
+h1{
+	text-align: center;
+	margin-top: 3.5%;
+}
+
+div.row{
+	background-color: #9966FF;
+	margin-bottom: 1%;
+	border-bottom: red 2px solid;
+}
+
+div.container{
+	margin-top: 4%;
+}
